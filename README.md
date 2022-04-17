@@ -15,12 +15,12 @@ karaoke system:
   -	List the songs in playlist
   -	Display song in reverse order
 •	Add song
-  o	Add front
-  o	Add last
-  o	Add at any places
+  -	Add front
+  -	Add last
+  -	Add at any places
 •	Display Playlist 
 •	Edit song
-  o	Delete song by index
-  o	Delete song by object
-  o	Reverse playlist
-  o	Clear playlist
+  -	Delete song by index
+  -	Delete song by object
+  -	Reverse playlist
+  -	Clear playlist
