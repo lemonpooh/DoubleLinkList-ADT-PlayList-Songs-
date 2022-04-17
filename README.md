@@ -6,7 +6,7 @@ This display Playlist song small project is implement using Double linklist ADT 
 
 Note: ADT source code is taking from open source and modification has apply to the source code.
 
-karaoke system:
+Karaoke system:
  
 Start song
   -	Play next song
