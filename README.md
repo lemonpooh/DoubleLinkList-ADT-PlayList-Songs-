@@ -9,11 +9,11 @@ Note: ADT source code is taking from open source and modification has apply to t
 karaoke system:
  
 •	Start song
-  o	Play next song
-  o	Play previous song
-  o	Replay
-  o	List the songs in playlist
-  o	Display song in reverse order
+  -	Play next song
+  -	Play previous song
+  -	Replay
+  -	List the songs in playlist
+  -	Display song in reverse order
 •	Add song
   o	Add front
   o	Add last
