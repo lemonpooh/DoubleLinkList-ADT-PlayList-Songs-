@@ -2,7 +2,7 @@
 package entity;
 
 /**
- * @author  GOH KAH POOI
+ * @author  
  */
 public class Song{
      private String title;
