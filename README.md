@@ -14,11 +14,14 @@ Start song
   -	Replay
   -	List the songs in playlist
   -	Display song in reverse order
+
 Add song
   -	Add front
   -	Add last
   -	Add at any places
+
 Display Playlist 
+
 Edit song
   -	Delete song by index
   -	Delete song by object
