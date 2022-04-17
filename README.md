@@ -1,4 +1,4 @@
-# Karaoke-PlayList-Songs
+# JAVA Karaoke-PlayList-Songs
 
 This is my Data Structure Assignment
 
