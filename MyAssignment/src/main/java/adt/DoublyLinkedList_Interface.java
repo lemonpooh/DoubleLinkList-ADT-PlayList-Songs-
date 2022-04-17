@@ -3,7 +3,7 @@ package adt;
 
 /**
  *
- * @author GOH KAH POOI
+ * @author 
  */
 public interface DoublyLinkedList_Interface<T>{
     public DoublyNode<T> getNode(int index);
