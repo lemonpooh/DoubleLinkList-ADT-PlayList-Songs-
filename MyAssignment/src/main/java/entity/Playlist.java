@@ -6,7 +6,7 @@ import adt.DoublyNode;
 import java.util.Scanner; 
 
 /** 
- * @author  GOH KAH POOI
+ * @author 
  */
 public class Playlist {
         private String PlayListName; 
