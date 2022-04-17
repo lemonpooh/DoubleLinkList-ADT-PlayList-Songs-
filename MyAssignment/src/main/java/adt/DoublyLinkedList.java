@@ -3,7 +3,7 @@ package adt;
 import adt.DoublyNode;
 import java.util.NoSuchElementException; 
 /** 
- * @author GOH KAH POOI
+ * @author 
  */
 public class DoublyLinkedList<T> implements DoublyLinkedList_Interface<T>{
         private DoublyNode<T> iteratorPointer;
